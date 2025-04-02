@@ -5,6 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gvvim&title=MultiLanguage,Joined2020,Experience,Stars,Commits,PullRequest" alt="gvvim" /></a> </p>
 
-- 📦 [Sketchfab](https://sketchfab.com/gvvim)
+- 📦 [Sketchfab](https://sketchfab.com/gwim)
 
-- 📫 How to reach me: **gvvim@gmail.com**
+- 📫 How to reach me: **bitegw@gmail.com**
