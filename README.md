@@ -7,7 +7,7 @@
 
 - 📦 [Sketchfab](https://sketchfab.com/gwim)
 
-- 📫 How to reach me: **bitegw@gmail.com**
+- 📫 How to reach me: **adanijel99@gmail.com**
 
 #### My latest work with the studio I co-founded with two colleagues (bitegameworks.net) on our first game:
 
