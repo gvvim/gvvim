@@ -8,3 +8,23 @@
 - 📦 [Sketchfab](https://sketchfab.com/gwim)
 
 - 📫 How to reach me: **bitegw@gmail.com**
+
+#### My latest work with the studio I co-founded with two colleagues (bitegameworks.net) on our first game:
+
+- [video 1](https://youtu.be/5yKrbmaSkW4)
+[video 2](https://youtu.be/E8hLK4xq54o)
+[video 3](https://youtu.be/kg3xfEGTqac)
+[video 4](https://youtu.be/EMts0G4KKiA)
+[video 5](https://youtu.be/bicOy6Yxu9U)
+
+#### Physics based 3D Platformer with some procedural animations:
+
+- [video 1](https://www.youtube.com/watch?v=L07R3wHSnXs) , [video 2](https://youtu.be/RVDLgLMg498)
+  
+I also have experience with 2D games on web platforms, here are some projects I did:
+
+- [web game 1](https://www.youtube.com/watch?v=ge1O2jVy1YQ) (Made during internship at Logispin,
+using pixijs)
+
+- [web game 2](https://gvvim.github.io/web-survival-game/#) (playable) Simple resource collecting 2D game
+written in javascript, made for a university project.
